@@ -2,15 +2,8 @@
 
 Buscador de gifs
 
-## Getting Started
+## Getting Start
+![picasion com_cabd1b596abfe4260e015f4da573c464](https://user-images.githubusercontent.com/53823948/80325835-2d0cfe00-880d-11ea-915e-2d5c43f03ccd.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este Aplicativo facilita na hora de  encontrar um gif  com determinada tag.  Exemplo  cachorro, casa, carro e assim por diante.
+o site https://developers.giphy.com/ foi utilizado pra obter os gifs via requição http. As dependências sao encontradas no https://pub.dev/
